@@ -33,4 +33,21 @@ OUTPUT:<br/>
 
 Experment NAME(DININGPHILOSOPHER):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/DiningPhilosopher<br/>
 OUTPUT:<br/>
-![Screenshot (312)](https://user-images.githubusercontent.com/114045813/192790030-aa440cf4-e69f-484d-af80-f02f27d4b808.png)<br/
+![Screenshot (312)](https://user-images.githubusercontent.com/114045813/192790030-aa440cf4-e69f-484d-af80-f02f27d4b808.png)<br/>
+
+Experment NAME(SINGLE LEVEL):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/commit/04b1671bc3fff0c9a8f188d839e1f6d5e86cc16a<br/>
+OUTPUT:<br/>
+![Screenshot (316)](https://user-images.githubusercontent.com/114045813/192799431-021a10fa-e89c-4606-9eb0-05cc00e731b0.png)<br/>
+
+
+EXPERIMENT NAME(TWO LEVEL):<br/>
+OUTPUT:<br/>
+![Screenshot (315)](https://user-images.githubusercontent.com/114045813/192796778-f0f13fac-1c90-411e-8858-a3c6a6e8eb13.png)<br/>
+
+EXPERIMENT NAME(BANKERS ALGORITHM):<br/>
+OUTPUT:<br/>
+![Screenshot (317)](https://user-images.githubusercontent.com/114045813/192799618-50dcc641-fa14-47a9-90f4-f47a0da2f303.png)<br/>
+
+
+
+
