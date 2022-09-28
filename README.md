@@ -40,11 +40,11 @@ OUTPUT:<br/>
 ![Screenshot (316)](https://user-images.githubusercontent.com/114045813/192799431-021a10fa-e89c-4606-9eb0-05cc00e731b0.png)<br/>
 
 
-EXPERIMENT NAME(TWO LEVEL):<br/>
+EXPERIMENT NAME(TWO LEVEL):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/TWO%20LEVEL<br/>
 OUTPUT:<br/>
 ![Screenshot (315)](https://user-images.githubusercontent.com/114045813/192796778-f0f13fac-1c90-411e-8858-a3c6a6e8eb13.png)<br/>
 
-EXPERIMENT NAME(BANKERS ALGORITHM):<br/>
+EXPERIMENT NAME(BANKERS ALGORITHM):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/Bankers%20Algorithm<br/>
 OUTPUT:<br/>
 ![Screenshot (317)](https://user-images.githubusercontent.com/114045813/192799618-50dcc641-fa14-47a9-90f4-f47a0da2f303.png)<br/>
 
