@@ -1,5 +1,5 @@
 # OS-CSA0469
-Experiment-1<br/> 
+Experiment-1:https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/process%20creation<br/> 
 OUTPUT:<br/>
 ![Screenshot (304)](https://user-images.githubusercontent.com/114045813/192699218-5e384fdc-4676-418c-bf3c-451a6f10735d.png)
 Experiment-2 : https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/File_Copy.c<br/>
