@@ -7,7 +7,7 @@ Experiment(FILE COPY) : https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/m
 OUTPUT:<br/>
 ![Screenshot (303)](https://user-images.githubusercontent.com/114045813/192697556-71b33992-af8d-440a-ad39-e84be80df4cd.png)<br/>
 
-Experment NAME()(MEMORY ALLOCATION):
+Experment NAME()(MEMORY ALLOCATION):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/MEMORY%20ALLOCATION<br\>
 OUTPUT:<br/>
 ![Screenshot (313)](https://user-images.githubusercontent.com/114045813/192787409-f0db09bc-ccdf-4ec7-ac60-f46c53de2154.png)<br/>
 
