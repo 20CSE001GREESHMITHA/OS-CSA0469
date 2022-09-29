@@ -56,4 +56,7 @@ EXPERIMENT NAME(FIFO):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/mai
 OUTPUT:<br/>
 ![Screenshot (319)](https://user-images.githubusercontent.com/114045813/193060175-aad24561-9dec-494f-b9e6-b1feae44f954.png)<br/>
 
+EXPERIMENT NAME(LRU):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/LRU<br/>
+OUTPUT:<br/>
+![Screenshot (320)](https://user-images.githubusercontent.com/114045813/193062028-6e3fad1d-317a-4281-a0c1-67c7106f9f0b.png)<br/>
 
