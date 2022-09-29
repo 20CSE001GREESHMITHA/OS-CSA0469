@@ -48,6 +48,9 @@ EXPERIMENT NAME(BANKERS ALGORITHM):https://github.com/20CSE001GREESHMITHA/OS-CSA
 OUTPUT:<br/>
 ![Screenshot (317)](https://user-images.githubusercontent.com/114045813/192799618-50dcc641-fa14-47a9-90f4-f47a0da2f303.png)<br/>
 
+EXPERIMENT NAME(PRODUCER-CONSUMER)https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/producer%20consumer<br/>
+OUTPUT:<br/>
+![Screenshot (318)](https://user-images.githubusercontent.com/114045813/193053302-3b4d4360-c3dc-414f-b354-e501aacafb49.png)<br/>
 
 
 
