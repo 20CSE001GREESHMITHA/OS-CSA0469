@@ -60,3 +60,7 @@ EXPERIMENT NAME(LRU):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main
 OUTPUT:<br/>
 ![Screenshot (320)](https://user-images.githubusercontent.com/114045813/193062028-6e3fad1d-317a-4281-a0c1-67c7106f9f0b.png)<br/>
 
+EXPERIMENT NAME(OPTIMAL):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/OPTIMAL<br/>
+OUTPUT:<br/>
+![Screenshot (321)](https://user-images.githubusercontent.com/114045813/193185733-f20c32bc-782b-4506-b4b3-2f4ef23d16e2.png)<br/>
+
