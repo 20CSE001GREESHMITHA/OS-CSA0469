@@ -76,18 +76,15 @@ EXPERIMENT NAME(DISK SCAN):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blo
 OUTPUT:<br/>
 ![Screenshot (324)](https://user-images.githubusercontent.com/114045813/193260062-6ff74504-1e21-44d1-979f-59078bf2bc3f.png)<br/>
 
+EXPERIMENT NAME(INDEXED):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/INDEXED<br/>
+OUTPUT:<br/>
+![Screenshot (326)](https://user-images.githubusercontent.com/114045813/193266222-13d6bc18-7766-4a54-9fa4-cf0c6bcefd62.png)<br/>
 
+EXPERIMENT NAME(FCFS):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/FCFS<br/>
+OUTPUT:<br/>
+![Screenshot (328)](https://user-images.githubusercontent.com/114045813/193266410-238c230c-6983-4f0a-8838-74d0bbfcd12f.png)<br/>
 
-EXPERIMENT NAME(OPTIMAL):<br/>
+EXPERIMENT NAME(LINKED):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/LINKED<br/>
 OUTPUT:<br/>
-EXPERIMENT NAME(OPTIMAL):<br/>
-OUTPUT:<br/>
-EXPERIMENT NAME(OPTIMAL):<br/>
-OUTPUT:<br/>
-EXPERIMENT NAME(OPTIMAL):<br/>
-OUTPUT:<br/>
-EXPERIMENT NAME(OPTIMAL):<br/>
-OUTPUT:<br/>
-EXPERIMENT NAME(OPTIMAL):<br/>
-OUTPUT:<br/>
+![Screenshot (327)](https://user-images.githubusercontent.com/114045813/193266651-117414d5-4fe5-416d-a738-1d5e5788829f.png)<br/>
 
