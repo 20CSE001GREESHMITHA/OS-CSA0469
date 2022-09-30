@@ -7,7 +7,7 @@ Experiment(FILE COPY) : https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/m
 OUTPUT:<br/>
 ![Screenshot (303)](https://user-images.githubusercontent.com/114045813/192697556-71b33992-af8d-440a-ad39-e84be80df4cd.png)<br/>
 
-Experment NAME()(MEMORY ALLOCATION):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/MEMORY%20ALLOCATION<br\>
+Experment NAME()(MEMORY ALLOCATION):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/MEMORY%20ALLOCATION<br/>
 OUTPUT:<br/>
 ![Screenshot (313)](https://user-images.githubusercontent.com/114045813/192787409-f0db09bc-ccdf-4ec7-ac60-f46c53de2154.png)<br/>
 
@@ -63,4 +63,31 @@ OUTPUT:<br/>
 EXPERIMENT NAME(OPTIMAL):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/OPTIMAL<br/>
 OUTPUT:<br/>
 ![Screenshot (321)](https://user-images.githubusercontent.com/114045813/193185733-f20c32bc-782b-4506-b4b3-2f4ef23d16e2.png)<br/>
+
+EXPERIMENT NAME(DISK FCFS):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/DISK%20FCFS<br/>
+OUTPUT:<br/>
+![Screenshot (323)](https://user-images.githubusercontent.com/114045813/193260040-c056ea5f-2f0e-48fd-8fc4-8863843fb399.png)<br/>
+
+EXPERIMENT NAME(FILE ALLOCATION):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/FILE%20ALLOCATION<br/>
+OUTPUT:<br/>
+![Screenshot (322)](https://user-images.githubusercontent.com/114045813/193259984-d8b15a18-f951-429f-8336-e08ba0b9f6b5.png)<br/>
+
+EXPERIMENT NAME(DISK SCAN):https://github.com/20CSE001GREESHMITHA/OS-CSA0469/blob/main/DISK%20SCAN<br/>
+OUTPUT:<br/>
+![Screenshot (324)](https://user-images.githubusercontent.com/114045813/193260062-6ff74504-1e21-44d1-979f-59078bf2bc3f.png)<br/>
+
+
+
+EXPERIMENT NAME(OPTIMAL):<br/>
+OUTPUT:<br/>
+EXPERIMENT NAME(OPTIMAL):<br/>
+OUTPUT:<br/>
+EXPERIMENT NAME(OPTIMAL):<br/>
+OUTPUT:<br/>
+EXPERIMENT NAME(OPTIMAL):<br/>
+OUTPUT:<br/>
+EXPERIMENT NAME(OPTIMAL):<br/>
+OUTPUT:<br/>
+EXPERIMENT NAME(OPTIMAL):<br/>
+OUTPUT:<br/>
 
